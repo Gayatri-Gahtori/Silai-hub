@@ -1,29 +1,37 @@
+# GudiSilai – (SilaiHub) 🧵 
 
-# GuddiSilai 👗✨
+**सिलाई की दुनिया, अब ऑनलाइन**
 
-**GuddiSilai** is an open-source tailoring platform where users can book custom stitching services for blouses, lehengas, and dresses. Users can view designs, add personalized measurements, and track their orders online. Inspired by local silai shops, now powered by React and Node.js.
+![GitHub stars](https://img.shields.io/github/stars/deepakcs2003/Silai-hub?style=social)
+![GitHub forks](https://img.shields.io/github/forks/deepakcs2003/Silai-hub?style=social)
+![License](https://img.shields.io/github/license/deepakcs2003/Silai-hub)
+![Last Commit](https://img.shields.io/github/last-commit/deepakcs2003/Silai-hub)
 
-> “Silai ki duniya, ab online.” — *GuddiSilai*
+---
+
+Welcome to **GudiSilai (SilaiHub)** – your one-stop platform for beautifully crafted, custom-stitched clothing by skilled hands.
+
+> "Every stitch tells a story — handcrafted with care, delivered with love."
+
+✨ **10+ saal ka tajurba (experience)**  
+🪡 **500+ blouses ki silai**  
+🎨 **150+ unique designs** – har ek mein apni baat
 
 ---
 
 ## 🌐 Live Demo
-
+-
 🚧 www.guddisilai.shop
 
 ---
 
-## 📸 Preview
-
-![image](https://github.com/user-attachments/assets/16c77315-aa49-4a2b-99af-8e5416ec2eec)
-![image](https://github.com/user-attachments/assets/884fe2e3-3c32-4da3-a719-6db00d740cb4)
-![image](https://github.com/user-attachments/assets/c0a0b299-4149-4009-b22c-5054aadf7a5b)
-![image](https://github.com/user-attachments/assets/ae599456-f358-43dc-a71a-11d4903eb16e)
-![image](https://github.com/user-attachments/assets/46b2c8ce-6c4b-4e41-8137-9e4d1ee12382)
+## UI Preview
+Take a look at some screenshots of the website interface:
 
 ---
 
 ## ✨ Key Features
+
 
 - 👗 Blouse, Lehenga, Dress stitching booking
 - 🧵 Design browsing and custom orders
@@ -35,7 +43,7 @@
 ---
 
 ## 🛠 Tech Stack
-
+______________________________________________
 | Layer        | Tech Used                   |
 |--------------|-----------------------------|
 | Frontend     | React.js, Tailwind CSS      |
@@ -43,7 +51,7 @@
 | Authentication | JWT, Google OAuth         |
 | Database     | MongoDB (Cloud via Atlas)   |
 | Deployment   | Vercel (Frontend), Render (Backend) |
-
+/*
 ---
 # 🎨 GuddiSilai Color Palette
 
@@ -69,7 +77,7 @@ This color palette is crafted to represent **royalty**, **affordability**, and t
 :root {
   --color-maroon: #800000;
   --color-peach: #FFE5B4;
-  --color-gold: #D4AF37;
+  --color-gold: #c0a342ff;
   --color-grey: #4A4A4A;
   --color-thread-blue: #6C8CD5;
 }
@@ -123,7 +131,6 @@ guddisilai/
 ├── vercel.json
 
 ````
-
 ---
 
 ## 🚀 Getting Started (Local Setup)
@@ -234,6 +241,7 @@ This project is licensed under the **MIT License**.
 ````
 
 ---
+
 
 ### ✅ Also Create These Files in Your Repo:
 
