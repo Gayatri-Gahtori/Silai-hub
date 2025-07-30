@@ -9,7 +9,7 @@
 
 ---
 
-Welcome to **GudiSilai (SilaiHub)** – your one-stop platform for beautifully crafted, custom-stitched clothing by skilled hands.
+Welcome to **GuddiSilai (SilaiHub)** – your one-stop platform for beautifully crafted, custom-stitched clothing by skilled hands.
 
 > "Every stitch tells a story — handcrafted with care, delivered with love."
 
@@ -21,37 +21,65 @@ Welcome to **GudiSilai (SilaiHub)** – your one-stop platform for beautifully c
 
 ## 🌐 Live Demo
 -
-🚧 www.guddisilai.shop
+🚧 https://version1gsocs.vercel.app/contact (Working in progress some parts are not functional)
 
 ---
 
 ## UI Preview
 Take a look at some screenshots of the website interface:
 
+## 🏠 Homepage
+
+![Homepage](assets/homepage.png)
+
+---
+
+## 🔐 Sign In Page
+
+![Sign In](assets/signin.png)
+
+---
+
+## 🎨 Design Space
+
+![Design Space](assets/designspace.png)
+
+---
+
+## ☎️ Contact Us Page
+
+![Contact Us](assets/contactus.png)
+
+---
+
+## ☎️ Order Now Page
+
+![Contact Us](assets/ordernow.png)
+
+
 ---
 
 ## ✨ Key Features
 
-
-- 👗 Blouse, Lehenga, Dress stitching booking
-- 🧵 Design browsing and custom orders
-- 📐 Measurements and personalization
-- 🔐 Google OAuth login
-- ⚙️ Admin panel for order/design management (WIP)
-- 🔍 SEO-ready with sitemap generator
+- 👗 **Book stitching services** for Blouses, Lehengas, and Dresses  
+- 🧵 **Browse designs** and place custom tailoring orders  
+- 📐 **Add measurements** and personalize outfits with ease  
+- 🔐 **Login securely** using Google OAuth  
+- ⚙️ **Admin panel** for managing orders and designs 
+- 🔍 **SEO-ready** with automated sitemap generation
 
 ---
 
-## 🛠 Tech Stack
-______________________________________________
-| Layer        | Tech Used                   |
-|--------------|-----------------------------|
-| Frontend     | React.js, Tailwind CSS      |
-| Backend      | Node.js, Express.js         |
-| Authentication | JWT, Google OAuth         |
-| Database     | MongoDB (Cloud via Atlas)   |
-| Deployment   | Vercel (Frontend), Render (Backend) |
-/*
+## 🛠️ Tech Stack
+
+| 📦 Layer           | 🔧 Technologies Used                         |
+|--------------------|-----------------------------------------------|
+| 🎨 Frontend        | React.js, Tailwind CSS                        |
+| ⚙️ Backend         | Node.js, Express.js                           |
+| 🔐 Authentication  | Google OAuth, JWT                             |
+| 🗄️ Database        | MongoDB (via MongoDB Atlas – Cloud Hosted)    |
+| 🚀 Deployment      | Vercel (Frontend) & Render (Backend)          |
+
 ---
 # 🎨 GuddiSilai Color Palette
 
@@ -61,40 +89,15 @@ This color palette is crafted to represent **royalty**, **affordability**, and t
 
 ## 🌟 Brand Colors
 
-| Color Name        | Hex Code   | Preview | Usage |
-|-------------------|------------|---------|--------|
-| **Royal Maroon**  | `#800000`  | ![#800000] | Primary brand color, buttons, headers |
-| **Soft Peach**    | `#FFE5B4`  | ![#FFE5B4] | Backgrounds, soft UI sections |
-| **Gold Dust**     | `#D4AF37`  | ![#D4AF37] | Borders, icons, decorative accents |
-| **Slate Grey**    | `#4A4A4A`  | ![#4A4A4A] | Main text color |
-| **Thread Blue**   | `#6C8CD5`  | ![#6C8CD5] | Hover effects, buttons, highlights |
+| Color Name       | Hex Code   | Preview                                                         | Usage                         |
+|------------------|------------|-----------------------------------------------------------------|-------------------------------|
+| Royal Maroon     | `#800000`  | ![#800000](https://via.placeholder.com/15/800000/000000?text=+) | Buttons, headers              |
+| Soft Peach       | `#FFE5B4`  | ![#FFE5B4](https://via.placeholder.com/15/FFE5B4/000000?text=+) | Backgrounds, soft sections    |
+| Gold Dust        | `#D4AF37`  | ![#D4AF37](https://via.placeholder.com/15/D4AF37/000000?text=+) | Borders, icons, accents       |
+| Slate Grey       | `#4A4A4A`  | ![#4A4A4A](https://via.placeholder.com/15/4A4A4A/000000?text=+) | Main text                     |
+| Thread Blue      | `#6C8CD5`  | ![#6C8CD5](https://via.placeholder.com/15/6C8CD5/000000?text=+) | Hover, highlights, buttons    |
 
 ---
-
-## 🧵 Usage in CSS
-
-```
-:root {
-  --color-maroon: #800000;
-  --color-peach: #FFE5B4;
-  --color-gold: #c0a342ff;
-  --color-grey: #4A4A4A;
-  --color-thread-blue: #6C8CD5;
-}
-
-/* Example Usage */
-.button-primary {
-  background-color: var(--color-maroon);
-  color: white;
-}
-
-.section-background {
-  background-color: var(--color-peach);
-}
-
-.text-main {
-  color: var(--color-grey);
-}
 
 ## 📂 Project Structure
 
